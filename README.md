@@ -1,4 +1,4 @@
-# Algorithms and Data Structures (NWI-IBC027)
+# Explainable AI (SOW-BKI266)
 
 > 🎓 This repository contains my course work for **Explainable AI** (SOW-BKI266)
 
