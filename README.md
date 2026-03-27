@@ -34,7 +34,7 @@ pip install -r requirements.txt
 If installing via the following command doesn't work, please try the following command installing all required libraries:
 
 ```
-pip install notebook torch torchvision
+pip install notebook torch torchvision tqdm
 ```
 
 5. Download dataset (cell included at the top of each notebook)
