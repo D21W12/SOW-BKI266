@@ -34,7 +34,7 @@ pip install -r requirements.txt
 If installing via the following command doesn't work, please try the following command installing all required libraries:
 
 ```
-pip install notebook torch torchvision tqdm
+pip install notebook torch torchvision tqdm scikit-learn matplotlib opencv-python
 ```
 
 5. Download dataset (cell included at the top of each notebook)
