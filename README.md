@@ -40,8 +40,8 @@ pip install notebook torch torchvision tqdm scikit-learn matplotlib opencv-pytho
 5. Download dataset (cell included at the top of each notebook)
 
 ```
-curl -L -o ./data.zip https://www.kaggle.com/api/v1/datasets/download/navoneel/brain-mri-images-for-brain-tumor-detection
+curl -L -o ./data.zip https://www.kaggle.com/api/v1/datasets/download/masoudnickparvar/brain-tumor-mri-dataset
 unzip -d ./data ./data.zip
 ```
 
-If the following commands don't work, please manually download the data from [kaggle (click here)](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection), and place it in `"Final Assignment"/data`.
+If the following commands don't work, please manually download the data from [kaggle (click here)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset), and place it in `"Final Assignment"/data`.
