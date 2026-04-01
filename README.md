@@ -1,4 +1,6 @@
-# Explainable AI (SOW-BKI266)
+# Explainable AI (SOW-BKI266) 
+
+[![DOI](https://zenodo.org/badge/1151456381.svg)](https://doi.org/10.5281/zenodo.19369228)
 
 > 🎓 This repository contains my course work for **Explainable AI** (SOW-BKI266)
 
