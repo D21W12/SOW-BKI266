@@ -37,9 +37,10 @@ If installing via the following command doesn't work, please try the following c
 pip install notebook torch torchvision tqdm scikit-learn matplotlib opencv-python
 ```
 
-5. Download dataset (cell included at the top of each notebook)
+5. Move to the `Final Assignment` directory, and download the dataset (cell included at the top of each notebook, minus cd command)
 
-```
+```python
+cd "Final Assignment"  # If not already in the correct wd
 curl -L -o ./data.zip https://www.kaggle.com/api/v1/datasets/download/masoudnickparvar/brain-tumor-mri-dataset
 unzip -d ./data ./data.zip
 ```
